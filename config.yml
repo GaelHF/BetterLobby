@@ -1,0 +1,22 @@
+#Developper: Gaël Hébert-Furoy / @VaxsMC
+#& = colors
+
+#Teleports the player to the lobby when he joins
+lobby-on-join: true
+
+#Remove Minecraft welcome message
+remove-on-join-message: false
+custom-message-enable: false
+custom-message: "&6Welcome on the &bserver&6 !"
+
+#Title
+title-enable: true
+title: "&b&lWELCOME"
+title-subtitle: "&eOn the server"
+
+#Your lobby settings
+lobby:
+  x: 0
+  y: 0
+  z: 0
+  world: "world"

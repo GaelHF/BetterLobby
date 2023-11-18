@@ -1,0 +1,12 @@
+name: BetterLobby
+version: 1.0.0
+description: An easy plugin to setup your lobby (/setlobby & /lobby)
+author: VAXS
+main: ca.vaxs.lobby.Main
+commands:
+  setlobby:
+    description: Set the server lobby's location
+    permission: bl.setlobby
+  lobby:
+    description: Teleports you to the lobby location
+    permission: bl.lobby
